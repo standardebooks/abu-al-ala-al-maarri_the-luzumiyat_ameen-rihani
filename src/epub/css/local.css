@@ -18,7 +18,7 @@ section[epub|type~="dedication"] b{
 
 section[epub|type~="dedication"] > *{
 	display: inline-block;
-	line-height: 200%;
+	line-height: 2;
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
