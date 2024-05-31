@@ -5,6 +5,10 @@ article{
 	break-after: page;
 }
 
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 /* Dedication */
 section[epub|type~="dedication"]{
 	text-align: center;
@@ -77,6 +81,7 @@ p span.i2{
 
 footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:signature"]{
