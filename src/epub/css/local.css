@@ -11,12 +11,12 @@ abbr[epub|type~="se:era"]{
 
 /* Dedication */
 section[epub|type~="dedication"]{
+	font-variant: small-caps;
 	text-align: center;
-	text-transform: uppercase;
 }
 
 section[epub|type~="dedication"] b{
-	font-size: 1.25em;
+	font-size: larger;
 	font-weight: bold;
 }
 
