@@ -5,10 +5,6 @@
 			<code>t-064</code>
 			<reason>Titlecase algorithm can’t handle the Arabic name Abu al-ʻAlaʼ.</reason>
 		</ignore>
-		<ignore>
-			<code>y-017</code>
-			<reason>Need a hair space between left double quotation mark and the name ʻAd, which contains U+02BB necessary to transliterate Arabic.</reason>
-		</ignore>
 	</file>
 	<file path="to-abu-al-ala.xhtml">
 		<ignore>
