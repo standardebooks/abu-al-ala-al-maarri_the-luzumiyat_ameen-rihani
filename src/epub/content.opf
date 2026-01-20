@@ -45,7 +45,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/50457</dc:source>
 		<dc:source>https://archive.org/details/luzumiyatabulal00rihagoog</dc:source>
 		<meta property="se:production-notes">This collection is technically a selection of poems from al-Maʻarri’s entire oevure, though we do not present it as an omnibus for artistic and pragmatic reasons. In the distant future, this can probably be replaced with complete translations of the distinct collections by al-Maʻarri (the Saqt az-Zand and Luzumiyyat).</meta>
-		<meta property="se:word-count">8157</meta>
+		<meta property="se:word-count">8094</meta>
 		<meta property="se:reading-ease.flesch">65.15</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Luz%C5%ABmiyy%C4%81t</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/abu-al-ala-al-maarri_the-luzumiyat_ameen-rihani</meta>
