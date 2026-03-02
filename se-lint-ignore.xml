@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-064</code>
+		<ignore code="t-064">
 			<reason>Titlecase algorithm can’t handle the Arabic name Abu al-ʻAlaʼ.</reason>
 		</ignore>
 	</file>
 	<file path="to-abu-al-ala.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>Titlecase algorithm can’t handle the Arabic name Abu al-ʻAlaʼ.</reason>
 		</ignore>
 	</file>
