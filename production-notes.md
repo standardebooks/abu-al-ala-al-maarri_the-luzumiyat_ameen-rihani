@@ -1,0 +1,1 @@
+This collection is technically a selection of poems from al-Maʻarri’s entire oevure, though we do not present it as an omnibus for artistic and pragmatic reasons. In the distant future, this can probably be replaced with complete translations of the distinct collections by al-Maʻarri (the Saqt az-Zand and Luzumiyyat).
