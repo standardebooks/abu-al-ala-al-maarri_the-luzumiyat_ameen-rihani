@@ -47,7 +47,7 @@
 		<dc:source>https://archive.org/details/luzumiyatabulal00rihagoog</dc:source>
 		<meta property="schema:wordCount">8094</meta>
 		<meta property="schema:educationalLevel">65.15</meta>
-		<link href="https://en.wikipedia.org/wiki/Luz%C5%ABmiyy%C4%81t" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/The_Luzumiyat" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/abu-al-ala-al-maarri_the-luzumiyat_ameen-rihani" refines="#vcs-repository" rel="schema:codeRepository"/>
